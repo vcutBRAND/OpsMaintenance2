@@ -1,0 +1,7 @@
+name: OpsMaintenance
+version: 1.0
+main: me.ops.maintenance.OpsMaintenance
+api-version: 1.20
+commands:
+  l0gin:
+    description: Toggle access
